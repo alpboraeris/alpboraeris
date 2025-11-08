@@ -1,10 +1,10 @@
 # Hey, I'm Bora 👋  
-I'm in my final year studying Information Systems at [TUM](https://www.tum.de/), focused on data science and analytics. I enjoy turning messy data into something meaningful.
+I'm in my final year studying Information Systems at [TUM](https://www.tum.de/), focused on data science and analytics. I enjoy turning messy data into something meaningful.  
 
-## ⚙️📊 What I’m into
-- Machine learning, data visualization and real-world analytics
-- Exploring datasets to find stories and insights
-- Connecting technical work with real business question
+## 📊 What I’m into
+- Machine learning, data visualization and real-world analytics  
+- Exploring datasets to find stories and insights  
+- Connecting technical work with real business questions  
 
 ### 🛠️ Tech Stack
 
@@ -16,8 +16,8 @@ I'm in my final year studying Information Systems at [TUM](https://www.tum.de/),
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
