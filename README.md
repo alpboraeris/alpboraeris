@@ -1,7 +1,7 @@
 # Hey, I'm Bora 👋  
 I'm in my final year studying Information Systems at [TUM](https://www.tum.de/), focused on data science and analytics. I enjoy turning messy data into something meaningful.  
 
-## 📊 What I’m into
+## ⚙️📊 What I’m into
 - Machine learning, data visualization and real-world analytics  
 - Exploring datasets to find stories and insights  
 - Connecting technical work with real business questions  
